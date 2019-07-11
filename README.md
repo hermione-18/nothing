@@ -1,3 +1,3 @@
 # //**nothing**//
-managing github from git
+learning to manage github from git
 '='
